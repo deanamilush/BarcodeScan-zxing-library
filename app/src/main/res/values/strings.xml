@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">grcodeScan</string>
+    <string name="scan">Scan</string>
+    <string name="disini_format">Disini format</string>
+    <string name="disini_conten">Disini conten</string>
+</resources>
